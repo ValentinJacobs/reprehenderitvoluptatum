@@ -1,0 +1,26 @@
+{
+  "name": "reprehenderitvoluptatum",
+  "version": "1.0.0",
+  "description": "deployed-smartcontract",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValentinJacobs/reprehenderitvoluptatum.git"
+  },
+  "keywords": [
+    "eth-smartcontract-deploy"
+  ],
+  "author": "MajorMcLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinJacobs/reprehenderitvoluptatum.git/issues"
+  },
+  "homepage": "https://github.com/ValentinJacobs/reprehenderitvoluptatum.git",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "js-database-connection": "^1.0.1",
+    "js-security-firewall": "^1.0.0",
+    "solc": "^0.8.24",
+    "web3": "^4.5.0"
+  }
+}
